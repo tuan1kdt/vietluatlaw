@@ -1,0 +1,116 @@
+- id: home
+  translation: "Trang chủ"
+
+- id: templateBy
+  translation: "Template bởi"
+
+- id: portedBy
+  translation: "Ported to Hugo bởi"
+
+- id: contactGoTo
+  translation: "Đi đến trang liên hệ"
+
+- id: contactAddrTitle
+  translation: "Địa chỉ"
+
+- id: contactTitle
+  translation: "Liên hệ"
+
+- id: contactForm
+  translation: "Form liên hệ"
+
+- id: contactName
+  translation: "Tên của bạn"
+
+- id: contactMail
+  translation: "Email"
+
+- id: contactMessage
+  translation: "Tin nhắn"
+
+- id: contactSend
+  translation: "Gửi tin nhắn"
+
+- id: navHome
+  translation: "Đi đến trang chủ"
+
+- id: navToggle
+  translation: "Toggle Navigation"
+
+- id: categoriesTitle
+  translation: "Danh mục"
+
+- id: searchTitle
+  translation: "Tìm kiếm"
+
+- id: tagsTitle
+  translation: "Tags"
+
+- id: continueReading
+  translation: "Tiếp tục đọc"
+
+- id: readMore
+  translation: "Xem thêm"
+
+- id: authorBy
+  translation: "Bởi"
+
+- id: recentPosts
+  translation: "Bài viết gần đây"
+
+- id: aboutUs
+  translation: "Về chúng tôi"
+
+- id: newer
+  translation: "Newer"
+
+- id: older
+  translation: "Older"
+
+- id: publishedOn
+  translation: "on"
+
+- id: 404Error
+  translation: "Error 404: Page not found"
+
+- id: 404Message
+  translation: "We are sorry – this page is not here anymore"
+
+- id: 404NavHome
+  translation: "Go to homepage"
+
+- id: January
+  translation: January
+
+- id: February
+  translation: February
+
+- id: March
+  translation: March
+
+- id: April
+  translation: April
+
+- id: May
+  translation: May
+
+- id: June
+  translation: June
+
+- id: July
+  translation: July
+
+- id: August
+  translation: August
+
+- id: September
+  translation: September
+
+- id: October
+  translation: October
+
+- id: November
+  translation: November
+
+- id: December
+  translation: December
