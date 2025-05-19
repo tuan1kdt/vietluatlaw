@@ -19,6 +19,10 @@ pluralizelisttitles = false
 #     [services.googleAnalytics]
 #         id = ""
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Define the number of posts per page
 [pagination]
     pagerSize = 10
